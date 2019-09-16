@@ -1,2 +1,2 @@
-# machine learining classifiers algorithms
+# Machine Learning Classifiers 
  different py files contain the diffirent machine learning classifier algorithm which include logistic classifier , support vector machine classfier, K-NN algorthm, random forest classifer, decsion tree classifier, naive bayes algorithm. all these algorithms are used on a data set (Social_Network_Ads.csv) which  contains 3 columns (age , salary and purchased.. predictions have been carried out using the different algorithms to predict who will or willnot  purchase an SUV vehicle based on their age and salary 
